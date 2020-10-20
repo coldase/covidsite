@@ -10,13 +10,33 @@ p{
 }
 
 .header{
-	height: 50px;
+	height: 70px;
 }
 
 form{
 	text-align: center;
 }
 
+.form-control{
+	max-width: 300px;
+	margin: 5px auto;
+	margin-bottom: 10px;
+}
+
+
+.country_data{
+	background-color: white;
+	max-width: 400px;
+	min-width: 260px;
+	margin: 0 auto;
+	border-radius: 20px;
+	padding: 20px;
+}
 .lead{
 	margin: 30px auto;
+	margin-bottom: 10px;
+}
+
+.jumbotron-fluid{
+	padding: 20px;
 }
